@@ -27,21 +27,25 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 baseurl: "/mischievous.org" # the subpath of your site, e.g. /blog
 url: "https://jasonculverhouse.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+remote_theme: "jekyll/minima"
+
 minima:
   social_links:
     - { platform: github,  user_url: "https://github.com/jasonculverhouse" }
     - { platform: mastodon, user_url: "https://flipboard.social/@JsonCulverhouse" }
     - { platform: flipboard, user_url: "https://flipboard.com/@JsonCulverhouse" }
     - { platform: bluesky, user_url: "https://bsky.app/profile/jason.mischievous.org" }
-    - { platform: twitter, user_url: "https://twitter.com/JsonCulverhouse" }
+    - { platform: x, user_url: "https://x.com/JsonCulverhouse" }
 #    - { platform: threads, user_url: "https://www.threads.net/@jsonculverhouse" }
+
+show_excerpts: true
 
 # Build settings
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
-remote_theme: "jekyll/minima"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
