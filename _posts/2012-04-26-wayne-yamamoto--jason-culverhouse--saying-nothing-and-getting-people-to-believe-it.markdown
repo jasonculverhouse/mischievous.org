@@ -4,7 +4,7 @@ title:  "Wayne Yamamoto, Jason Culverhouse: Saying Nothing and Getting People to
 date:   2012-04-26 11:27:15 +0000
 categories: social responsibility
 ---
-<a href="http://www.mischievous.org/images/Jason_Culverhouse_Mug_Shot.jpg"><img alt="Jason_Culverhouse_Mug_Shot.jpg" src="http://www.mischievous.org/assets_c/2012/04/Jason_Culverhouse_Mug_Shot-thumb-300x300-29.jpg" width="300" height="300" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></a>
+<a href="{{ site.url }}{{ site.baseurl }}/assets/images/Jason_Culverhouse_Mug_Shot.jpg"><img alt="Jason_Culverhouse_Mug_Shot.jpg" src="{{ site.url }}{{ site.baseurl }}/assets/images/2012/04/Jason_Culverhouse_Mug_Shot-thumb-300x300-29.jpg" width="300" height="300" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></a>
 It's become quite popular to give advice in a blog post. Hopefully, you can provide great words of wisdom to help others.  However, I've noticed that some of these posts have an underlying agenda.  First, I've seen some meaningless posts used to  get "street cred" and attention even though they really don't say anything interesting.   Second, I've seen posts whose specific goal  is to reshape a "problematic history" in positive light.
 
 Regardless of the reality, one can create a plausible story of the past in a blog.  You can neutralize your bad decisions, morally suspect actions, and failures.  The trick is to do so in way it looks like you are giving advice to entrepreneurs. As long what you are saying sounds reasonable, you'll get credit for brilliance. This may sound incredulous -- after all, won't there be people in the peanut gallery that disagree? Yes, always. Fortunately, those that disagree will usually be polite, unless you are a complete dick in your post.  More importantly, there will always be people who support your position (unless you are completely off the deep end). Trust me.  Further, hopefully you have friends that will support you. Even if you don't have friends, there will probably be those who will want to ride your coattails and give positive support. There will be enough lemmings willing to jump on board. (Apologies for mixed metaphors.) 
@@ -22,7 +22,7 @@ Incredibly, even if you don't have any friends or people that want to co-author 
 Did you know I am co-authoring a blog post with Barack Obama next week?
 
 ### __Format Matters__
-<a href="http://www.mischievous.org/images/db.jpg"><img alt="db.jpg" src="http://www.mischievous.org/assets_c/2012/04/db-thumb-300x162-31.jpg" width="300" height="162" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></a> 
+<a href="{{ site.url }}{{ site.baseurl }}/assets/images/db.jpg"><img alt="db.jpg" src="{{ site.url }}{{ site.baseurl }}/assets/images/2012/04/db-thumb-300x162-31.jpg" width="300" height="162" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></a> 
 Even though what you say really doesn't matter, how you say it does. From a semantic perspective, you should say something wise, funny, and seemingly authoritative. You should take the perspective that you are a seasoned veteran that has been "around the block" with battle wounds to show for it. Snarky and ironic can work, but be careful.
 
 More important, the format of your post matters. It should be of medium length. Clearly, it should be longer than a tweet. If anyone comments, tl;dr -- you know you've written too much. Here are some key elements:

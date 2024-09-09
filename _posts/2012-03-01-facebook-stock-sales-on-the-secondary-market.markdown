@@ -6,7 +6,7 @@ categories: facebook
 ---
 Digging through my email I realized that I had quite abit of email related to sales of Facebook Class B shares on the secondary market.  I dug around the emails that I saved from November 2011 and have eight data points for Facebook sales to date.  Here are the results in a handy chart with the [obligatory R&sup2; for a simple linear regression](http://www.kazabyte.com/2012/02/97-failures-is-the-key-to-success.html).  I'll also note that these "shares" are not actually purchases of shares but purchases of an investment vehicle designed to hold shares of Facebook via an indirect interest.
 
-<img alt="facebook_sales_data.png" src="http://www.mischievous.org/images/facebook_sales_data.png" width="543" height="390" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" />
+<img alt="facebook_sales_data.png" src="{{ site.url }}{{ site.baseurl }}/assets/images/facebook_sales_data.png" width="543" height="390" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" />
 
 ### **Facebook Share Sales Data**
 

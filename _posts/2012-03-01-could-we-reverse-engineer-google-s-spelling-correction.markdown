@@ -22,7 +22,7 @@ appear in all keywords that lead to this blog follows
 under 10 impressions based on their rank data (ranks >= 83) as webmaster tools 
 only gives a sample value when the impressions are greater than 10.
 
-<img alt="mischievous-fvs-r.png" src="http://www.mischievous.org/images/mischievous-fvs-r.png" width="671" height="512" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" />
+<img alt="mischievous-fvs-r.png" src="{{ site.url }}{{ site.baseurl }}/assets/images/mischievous-fvs-r.png" width="671" height="512" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" />
 
 ### **Raw Data**
 
